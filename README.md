@@ -78,8 +78,19 @@ These references provide insights into image processing, segmentation, and machi
 
 ## Screenshots
 
-![Segmented Lesion Example](path_to_your_segmented_image.jpg)  
-![Feature Extraction Example](path_to_feature_extraction_image.jpg)  
+### DATA VALIDATION
+<img width="645" height="662" alt="1" src="https://github.com/user-attachments/assets/b07ad105-1122-4462-ba12-6a6e60078f2a" />
+<img width="948" height="657" alt="2" src="https://github.com/user-attachments/assets/c8b192e6-a214-4005-b642-5a4cb304eef9" />
+
+### MODEL BUILDING
+<img width="348" height="861" alt="3" src="https://github.com/user-attachments/assets/cbb7422f-1339-468d-be24-943fb8e43738" />
+
+### MODEL ACCURACY
+<img width="888" height="604" alt="image" src="https://github.com/user-attachments/assets/16669186-f206-44d2-bfc9-91649aeb7238" />
+
+
+### MODEL PREDICTION
+<img width="257" height="252" alt="image" src="https://github.com/user-attachments/assets/666a51ee-ad47-4f7e-a213-50a107d37b07" />
 
 ---
 
