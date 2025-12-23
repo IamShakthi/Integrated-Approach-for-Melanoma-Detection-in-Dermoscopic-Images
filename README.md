@@ -92,5 +92,4 @@ These references provide insights into image processing, segmentation, and machi
 ### MODEL PREDICTION
 <img width="257" height="252" alt="image" src="https://github.com/user-attachments/assets/666a51ee-ad47-4f7e-a213-50a107d37b07" />
 
----
 
