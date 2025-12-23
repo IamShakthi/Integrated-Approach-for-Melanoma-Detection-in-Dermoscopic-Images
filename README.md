@@ -94,4 +94,3 @@ These references provide insights into image processing, segmentation, and machi
 
 ---
 
-**Note:** Replace `path_to_your_segmented_image.jpg` and `path_to_feature_extraction_image.jpg` with actual image paths in your repository.
